@@ -1,0 +1,92 @@
+{
+  "Acessorios_Treino" : [
+        {
+            "id": 1,
+            "nome": "Balança corporal digital",
+            "descricao": "A balança digital é leve, resistente e te acompanha onde você for, te ajudando a manter seu peso sempre saudável.",
+            "preco": 42.21,
+            "categoria_id": 10
+          },
+          {
+            "id": 2,
+            "nome": "Tapete de Yoga",
+            "descricao": "Tapete de Yoga de mandala premium roxo",
+            "preco": 37.90,
+            "categoria_id": 10
+          },
+          {
+            "id": 3,
+            "nome": "Bola para fisioterapia",
+            "descricao": "Esfera para Fisioterapia. Indicações: Fisioterapia, reabilitação e terapia ocupacional.",
+            "preco": 159.60,
+            "categoria_id": 10
+          },
+          {
+            "id": 4,
+            "nome": "Leg Press Plate",
+            "descricao": "Otimize seus exercícios com o equipamento Leg Press",
+            "preco": 13292.21,
+            "categoria_id": 10
+          }
+    ],
+    "Tratamentos_Capilares" : [
+        {
+            "id": 1,
+            "nome": "Suplemento Vitamínico",
+            "descricao": "Fortalece e estimula o crescimento de unhas e cabelos.",
+            "preco": 107.99,
+            "categoria_id": 11
+          },
+          {
+            "id": 2,
+            "nome": "Shampoo Antiqueda",
+            "descricao": "Ele conta com uma fórmula inovadora que restaura a vitalidade dos fios, deixando-os mais resistentes e com brilho.",
+            "preco": 79.90,
+            "categoria_id": 11
+          },
+          {
+            "id": 3,
+            "nome": "Suplemento Alimentar Antiqueda",
+            "descricao": "É um suplemento vitamínico capilar que auxilia no crescimento do cabelo, fortalecendo a saúde dos fios e evitando a queda,",
+            "preco": 125.99,
+            "categoria_id": 11
+          },
+          {
+            "id": 4,
+            "nome": "Suplemento em Pó Antiqueda",
+            "descricao": "É um pó para preparo instantâneo de bebida, formulado à base de peptídeos de Colágeno, Hibiscos e Vitamina C. ",
+            "preco": 128.99,
+            "categoria_id": 11
+          }
+    ],
+    "Saude_Sexual" : [
+      {
+          "id": 1,
+          "nome": "Termometro Digital",
+          "descricao": "É um termômetro digital para utilização oral, axilar e retal. É resistente à água e possui um visor grande em cristal líquido para fácil visualização dos resultados em até 30 segundos",
+          "preco": 11.24,
+          "categoria_id": 12
+        },
+        {
+          "id": 2,
+          "nome": "Camisinha",
+          "descricao": "É uma camisinha lubrificada mais fina do que as comuns que proporciona maior sensação de contato devido a sua menor espessura.",
+          "preco": 20.99,
+          "categoria_id": 12
+        },
+        {
+          "id": 3,
+          "nome": "Gel Lubrificante intimo",
+          "descricao": "Um gel para massagem e lubrificante íntimo que mantém a sensibilidade e proporciona conforto e prazer durante o ato sexual.",
+          "preco": 23.99,
+          "categoria_id": 12
+        },
+        {
+          "id": 4,
+          "nome": "Gel Dessensibilizante intímo",
+          "descricao": "Possui textura leve e suave. Criado para diminuir a sensibilidade na região anal",
+          "preco": 55.00,
+          "categoria_id": 12
+        }
+  ]
+}
